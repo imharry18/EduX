@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import Home from './Home.jsx';
-import QuizPage from './QuizPage.jsx';
-import ResultPage from './ResultPage.jsx';
+import Home from './components/Home.jsx';
+import QuizPage from './components/QuizPage.jsx';
+import ResultPage from './components/ResultPage.jsx';
 
 // The main App component manages which page is currently visible.
 const App = () => {
