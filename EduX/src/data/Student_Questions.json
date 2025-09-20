@@ -1,0 +1,302 @@
+[
+    {
+        "Type": "Maths",
+        "Q_Num": 1,
+        "Question": "25 \u00d7 36 \u00f7 12 = ?",
+        "Options": [
+            "72",
+            "75",
+            "70",
+            "78"
+        ],
+        "Answer": "75"
+    },
+    {
+        "Type": "Maths",
+        "Q_Num": 2,
+        "Question": "If x + 5 = 12, find x.",
+        "Options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "Answer": "7"
+    },
+    {
+        "Type": "Maths",
+        "Q_Num": 3,
+        "Question": "Find the next number in the series: 2, 4, 8, 16, ?",
+        "Options": [
+            "18",
+            "20",
+            "32",
+            "24"
+        ],
+        "Answer": "32"
+    },
+    {
+        "Type": "Maths",
+        "Q_Num": 4,
+        "Question": "15% of 200 = ?",
+        "Options": [
+            "20",
+            "25",
+            "30",
+            "35"
+        ],
+        "Answer": "30"
+    },
+    {
+        "Type": "Maths",
+        "Q_Num": 5,
+        "Question": "Find LCM of 12 and 18.",
+        "Options": [
+            "36",
+            "54",
+            "72",
+            "48"
+        ],
+        "Answer": "36"
+    },
+    {
+        "Type": "Maths",
+        "Q_Num": 6,
+        "Question": "A train runs 120 km in 2 hours. Find its speed.",
+        "Options": [
+            "50",
+            "60",
+            "70",
+            "55"
+        ],
+        "Answer": "60"
+    },
+    {
+        "Type": "Maths",
+        "Q_Num": 7,
+        "Question": "Simplify: (3\u00b2 + 4\u00b2) \u00f7 5 = ?",
+        "Options": [
+            "5",
+            "4",
+            "6",
+            "7"
+        ],
+        "Answer": "5"
+    },
+    {
+        "Type": "Maths",
+        "Q_Num": 8,
+        "Question": "1/2 + 2/3 = ?",
+        "Options": [
+            "1",
+            "7/6",
+            "5/6",
+            "3/2"
+        ],
+        "Answer": "7/6"
+    },
+    {
+        "Type": "Maths",
+        "Q_Num": 9,
+        "Question": "If 5 pens cost 50, find cost of 8 pens.",
+        "Options": [
+            "70",
+            "75",
+            "80",
+            "85"
+        ],
+        "Answer": "80"
+    },
+    {
+        "Type": "Maths",
+        "Q_Num": 10,
+        "Question": "Solve: 7 \u00d7 (5 + 3) = ?",
+        "Options": [
+            "49",
+            "56",
+            "54",
+            "52"
+        ],
+        "Answer": "56"
+    },
+    {
+        "Type": "English",
+        "Q_Num": 11,
+        "Question": "Choose the correct synonym of 'Happy'.",
+        "Options": [
+            "Sad",
+            "Joyful",
+            "Angry",
+            "Tired"
+        ],
+        "Answer": "Joyful"
+    },
+    {
+        "Type": "English",
+        "Q_Num": 12,
+        "Question": "Fill in the blank: She ___ to school yesterday.",
+        "Options": [
+            "go",
+            "went",
+            "gone",
+            "going"
+        ],
+        "Answer": "went"
+    },
+    {
+        "Type": "English",
+        "Q_Num": 13,
+        "Question": "Antonym of 'Brave'?",
+        "Options": [
+            "Coward",
+            "Heroic",
+            "Strong",
+            "Bold"
+        ],
+        "Answer": "Coward"
+    },
+    {
+        "Type": "English",
+        "Q_Num": 14,
+        "Question": "Correct the sentence: 'He don\u2019t like ice cream.'",
+        "Options": [
+            "He don't likes ice cream.",
+            "He doesn't like ice cream.",
+            "He not like ice cream.",
+            "He do not like ice cream."
+        ],
+        "Answer": "He doesn't like ice cream."
+    },
+    {
+        "Type": "English",
+        "Q_Num": 15,
+        "Question": "Choose the correct word: 'Their / There / They\u2019re going to the park.'",
+        "Options": [
+            "Their",
+            "There",
+            "They\u2019re",
+            "Them"
+        ],
+        "Answer": "They\u2019re"
+    },
+    {
+        "Type": "Logical Reasoning",
+        "Q_Num": 16,
+        "Question": "What comes next: 2, 6, 12, 20, ?",
+        "Options": [
+            "28",
+            "30",
+            "32",
+            "24"
+        ],
+        "Answer": "30"
+    },
+    {
+        "Type": "Logical Reasoning",
+        "Q_Num": 17,
+        "Question": "Find the odd one out: 3, 5, 7, 9, 11",
+        "Options": [
+            "3",
+            "5",
+            "7",
+            "9"
+        ],
+        "Answer": "9"
+    },
+    {
+        "Type": "Logical Reasoning",
+        "Q_Num": 18,
+        "Question": "A is taller than B. B is taller than C. Who is shortest?",
+        "Options": [
+            "A",
+            "B",
+            "C",
+            "Cannot say"
+        ],
+        "Answer": "C"
+    },
+    {
+        "Type": "Logical Reasoning",
+        "Q_Num": 19,
+        "Question": "Series: 1, 1, 2, 3, 5, ?",
+        "Options": [
+            "8",
+            "7",
+            "6",
+            "9"
+        ],
+        "Answer": "8"
+    },
+    {
+        "Type": "Logical Reasoning",
+        "Q_Num": 20,
+        "Question": "If Monday is 1, Tuesday is 2\u2026 what is Saturday?",
+        "Options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "Answer": "6"
+    },
+    {
+        "Type": "Personality",
+        "Q_Num": 21,
+        "Question": "I feel confident speaking in front of a group.",
+        "Options": [
+            "Strongly Agree",
+            "Agree",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "Answer": ""
+    },
+    {
+        "Type": "Personality",
+        "Q_Num": 22,
+        "Question": "I enjoy working in a team.",
+        "Options": [
+            "Strongly Agree",
+            "Agree",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "Answer": ""
+    },
+    {
+        "Type": "Personality",
+        "Q_Num": 23,
+        "Question": "I take initiative in group projects.",
+        "Options": [
+            "Strongly Agree",
+            "Agree",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "Answer": ""
+    },
+    {
+        "Type": "Personality",
+        "Q_Num": 24,
+        "Question": "I handle stressful situations well.",
+        "Options": [
+            "Strongly Agree",
+            "Agree",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "Answer": ""
+    },
+    {
+        "Type": "Personality",
+        "Q_Num": 25,
+        "Question": "I manage my time efficiently.",
+        "Options": [
+            "Strongly Agree",
+            "Agree",
+            "Disagree",
+            "Strongly Disagree"
+        ],
+        "Answer": ""
+    }
+]
